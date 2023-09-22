@@ -1,1 +1,1 @@
-# [ProjectName](https://github.com/GroundAura/Project-Template/wiki)
+# [Keyword Patch Collection](https://github.com/GroundAura/Keyword-Patch-Collection/wiki)

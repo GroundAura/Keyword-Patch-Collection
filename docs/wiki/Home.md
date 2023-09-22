@@ -1,7 +1,7 @@
-# ProjectName
+# Keyword Patch Collection
 
 ---
 
-Welcome to the ProjectName wiki!
+Welcome to the Keyword Patch Collection wiki!
 
-ProjectName is a mod for Skyrim Special Edition.
+Keyword Patch Collection is a mod for Skyrim Special Edition.

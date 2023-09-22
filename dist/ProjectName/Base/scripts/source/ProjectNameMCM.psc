@@ -1,1 +1,1 @@
-Scriptname ProjectNameMCM extends MCM_ConfigBase
+Scriptname Keyword Patch CollectionMCM extends MCM_ConfigBase

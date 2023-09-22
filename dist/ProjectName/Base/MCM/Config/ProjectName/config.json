@@ -1,17 +1,17 @@
 {
 "$schema": "https://raw.githubusercontent.com/Exit-9B/MCM-Helper/main/docs/config.schema.json",
-"modName": "ProjectName",
-"displayName": "$ProjectName_MCM",
+"modName": "Keyword Patch Collection",
+"displayName": "$Keyword Patch Collection_MCM",
 "minMcmVersion": 13,
-"pluginRequirements": [ "ProjectName.esp" ],
+"pluginRequirements": [ "Keyword Patch Collection.esp" ],
 "cursorFillMode": "topToBottom",
 "pages": [
 	{
-		"pageDisplayName": "$ProjectName_MCM_Page1",
+		"pageDisplayName": "$Keyword Patch Collection_MCM_Page1",
 		"cursorFillMode": "topToBottom",
 		"content": [
 			{
-				"text": "$ProjectName_MCM_Heading1",
+				"text": "$Keyword Patch Collection_MCM_Heading1",
 				"type": "header"
 			}
 		]

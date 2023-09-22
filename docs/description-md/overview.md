@@ -1,1 +1,1 @@
-ProjectName is a mod that does a thing.
+My collection of patches, fixes, and tweaks for keyword related stuff. Utilizes Keyword Item Distributer and Object Categorization Framework where possible.
